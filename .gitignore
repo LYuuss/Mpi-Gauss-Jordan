@@ -1,0 +1,4 @@
+gauss_jordan_mpi
+*.o
+*.out
+.DS_Store
