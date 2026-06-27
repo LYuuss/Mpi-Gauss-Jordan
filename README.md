@@ -165,17 +165,3 @@ Le projet utilise principalement :
 - `MPI_Gatherv`
 - `MPI_Finalize`
 
-## Limites
-
-Cette implémentation est pédagogique. Elle est adaptée pour comprendre MPI et la parallélisation d'un algorithme d'algèbre linéaire.
-
-Pour des systèmes très grands ou pour un usage industriel, il faudrait plutôt utiliser des bibliothèques optimisées comme :
-
-- BLAS
-- LAPACK
-- ScaLAPACK
-- PETSc
-
-## Licence
-
-MIT
